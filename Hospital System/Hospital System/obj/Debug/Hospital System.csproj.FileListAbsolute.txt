@@ -1,0 +1,37 @@
+C:\Users\pc\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+C:\Users\pc\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+C:\Users\pc\source\repos\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+C:\Users\pc\source\repos\Hospital System\Hospital System\bin\Debug\Guna.UI2.dll
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CopyComplete
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Admin.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Docter.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Login.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.Pharmacy.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.DocterView.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.DocterAdd.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.ChannelAdd.resources
+C:\Users\pc\source\repos\Hospital System\Hospital System\obj\Debug\Hospital_System.ChannelView.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\bin\Debug\Guna.UI2.dll
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.AssemblyReference.cache
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Admin.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.ChannelAdd.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.ChannelView.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Docter.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.DocterAdd.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.DocterView.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Login.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Pharmacy.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Prescription.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\onlin\Desktop\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
